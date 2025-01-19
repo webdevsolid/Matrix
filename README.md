@@ -1,1 +1,1 @@
-[Matrix]('/matrix.png')
+![Matrix](matrix.png)
